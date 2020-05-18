@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+Dedicated to piecing the puzzel together, creative insights are integral to our approach.  
